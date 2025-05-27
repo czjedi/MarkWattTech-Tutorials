@@ -79,7 +79,7 @@ sudo nano /etc/xdg/openbox/environment
 
 # use the above command to enter the nano editor for the environment and paste in the following line
 
-export KIOSK_URL=https://YourHomeAssistant_URL:8123
+export KIOSK_URL=http://YourHomeAssistant_URL:8123
 ```
 
 </br>
